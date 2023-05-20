@@ -19,6 +19,6 @@ The Comment Remover is a Python script that removes comments from code files. It
    pip install -r requirements.txt```
 
 3.  Usage
-**Run the script:
+Run the script:
 ```bash
 python comment_remover.py```
