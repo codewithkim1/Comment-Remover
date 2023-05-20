@@ -11,17 +11,22 @@ The Comment Remover is a Python script that removes comments from code files. It
    ```
    
   
- 2. Change to the project directory:
+2. Change to the project directory:
  ```bash
-   cd comment-remover```
-   
-   ```bash
-   pip install -r requirements.txt```
+   cd comment-remover
 
-3.  Usage
+   pip install -r requirements.txt
+   
+  ```
+
+
+
+3. Usage
 Run the script:
+
 ```bash
-python comment_remover.py```
+python comment_remover.py
+```
 
 
 
@@ -31,8 +36,6 @@ python comment_remover.py```
 
 ## Saving Output file
 ![image](https://github.com/codewithkim1/Comment-Remover/assets/105293662/3123a595-4202-4277-ab55-c2a5a8788aee)
-
-
 
 
 
